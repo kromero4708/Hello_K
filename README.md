@@ -7,3 +7,21 @@ Soy Kevin, Tengo 30 años y estoy estudiando Ciencia de Datos
 [Fuente: Giphy](https://giphy.com/gifs/working-slennnderr-in-12i0cGfbzdEnlf5TeO)
 
 Que tal. Estoy de colaborador en  el repositorio.
+
+# Labios rotos
+_Extracto de canción de Zoé_
+
+Regalame tu **corazón** y déjame entrar a ese lugar <br>
+Donde nacen las flores, donde nace el amor
+
+Entrégame tus labios rotos lo quiero besar <br>
+Los quiero curar<br>
+**Los voy a _cuidar con todo mi amor_**
+
+1. Es raro el amor ah, es raro el amor ah <br>
+Que se te aparece cuando menos piensas
+
+2. Es raro el amor ah, es raro el amor ah <br>
+No importa la distancia, ni el tiempo ni la edad
+
+3. Tercer elemento de la lista.
