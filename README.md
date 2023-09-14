@@ -29,8 +29,10 @@ No importa la distancia, ni el tiempo ni la edad
 
 La sección de Referencias de este repositorio las encontrarás en [este link](https://github.com/UBC-MDS/DSCI_521_platforms-dsci).
 
-### Original idea
-This is based in [ttimbers/hello](https://github.com/ttimbers/hello) repository. Thank you Tiffany!
+### Original
+Original Idea  **[Tiffany Timbers](https://github.com/ttimbers/hello)** In the repository [ttimbers/hello](https://github.com/ttimbers/hello). Thank you Tiffany!
+
+
 
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
